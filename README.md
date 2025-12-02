@@ -1,0 +1,1 @@
+Student Attendance Tracking Application using Laravel, Livewire, Tailwind CSS, and Alpine.js (TALL Stack). This step-by-step tutorial covers all essential features, from user authentication to real-time attendance tracking and reporting.
